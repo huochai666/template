@@ -1,0 +1,4 @@
+[template]
+# 告诉 cargo-generate 忽略对 cliff.toml 文件的模板处理
+# 直接复制这个文件，不要替换里面的任何内容
+ignore = ["cliff.toml"]
